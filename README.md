@@ -11,7 +11,7 @@
     <a href="https://www.python.org/">
       <img src="https://img.shields.io/badge/built%20with-Python3-red.svg?style=flat" />
     </a>
-    <a href="https://github.com/GramAddict/bot/pulls">
+    <a href="https://github.com/GramAddict/bot/pulls"> 
       <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" />
     </a>
     <a href="https://github.com/GramAddict/bot/issues">
