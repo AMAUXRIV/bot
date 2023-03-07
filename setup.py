@@ -4,7 +4,7 @@ with open("GramAddict/version.py", "r") as f:
     cur_version = f.read().split('"')[1]
 with open("README.md", "r", errors="ignore") as readme:
     long_description = readme.read()
-setuptools.setup(
+setuptools.setup( 
     name="gramaddict",
     version=cur_version,
     author="GramAddict Team",
