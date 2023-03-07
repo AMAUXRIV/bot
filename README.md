@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://github.com/GramAddict/bot/raw/master/res/logo.png">
   <br />
   <h1 align="center">GramAddict</h1>
