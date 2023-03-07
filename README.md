@@ -103,7 +103,7 @@ There are lots of __cool features__ you can use __for free__!
 - Available interactions
     - interact with a user's followers or following
     - interact with a top or recent hashtag's post likers
-    - interact with a top or recent hashtag post
+    - interact with a top or recent hashtag post 
     - interact with a top or recent place's post likers
     - interact with a top or recent place post
     - interact with user's post likers
